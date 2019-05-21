@@ -9,3 +9,6 @@ print(data.size)
 data = np.zeros((4, 4))
 
 print(data)
+
+data = np.arange(20)*3
+print(data)
